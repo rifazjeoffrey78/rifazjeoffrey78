@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Deep Learning, NLP and other Data Analytics projects
+
 <!--
 **rifazjeoffrey78/rifazjeoffrey78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
