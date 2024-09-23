@@ -1,4 +1,4 @@
-## Hi there 👋
+## ML/AI Projects 👋
 
 🔭 I’m currently working on Deep Learning, NLP and other Data Analytics projects
 
