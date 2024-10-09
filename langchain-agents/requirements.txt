@@ -1,0 +1,13 @@
+langgraph
+langchain-community
+langsmith
+langchain-core
+
+typing-extensions
+
+pydantic==2.6.0
+
+tavily-python
+
+python-dotenv
+langchain-mistralai
